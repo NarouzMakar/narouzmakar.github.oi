@@ -16,7 +16,7 @@ body {
 
 h1, h3
 {
-	color: yellow
+	color: rgb(110, 109, 153)
 }
 
 a, .labs-style
@@ -26,7 +26,7 @@ a, .labs-style
 
 dt, strong
 {
-	color: red;
+	color: yellow;
 }
 
 .neighbors-class
