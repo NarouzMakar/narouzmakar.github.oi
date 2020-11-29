@@ -77,7 +77,3 @@ function getRandomColor() {
     }
     return color;
   }
-  
-
-//   let elem = $("<input>",{"type":"text","value":"hello world","name":"hello"});
-//   $("#helloForm").append(elem);
